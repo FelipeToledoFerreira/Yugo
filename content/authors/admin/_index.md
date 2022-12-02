@@ -55,7 +55,7 @@ social:
     link: https://scholar.google.co.uk/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/FelipeToledoFerreira
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
