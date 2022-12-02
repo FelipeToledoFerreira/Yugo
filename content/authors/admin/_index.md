@@ -19,7 +19,7 @@ role: Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Universidade de São Paulo
-    url: [https://www.stanford.edu/](https://www5.usp.br/)
+    url: https://www5.usp.br/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include functional data analysis and non parametric inference.
@@ -32,6 +32,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: MSc in Statistics
+      institution: Universidade de São Paulo
     - course: BSc in Statistics
       institution: Universidade Federal de Juiz de Fora
       year: 2022
