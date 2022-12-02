@@ -22,7 +22,7 @@ organizations:
     url: https://www5.usp.br/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include functional data analysis and non parametric inference.
+bio: My research interests include functional data analysis (FDA) and nonparametric statistics.
 
 # Interests to show in About widget
 interests:
@@ -45,16 +45,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/
+    link: 'mailto:felipe3@ime.usp.br'
+  # - icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/GeorgeCushen
+  #  label: Follow me on Twitter
+  #  display:
+  #    header: true
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #  icon_pack: fas
+  #  link: https://scholar.google.co.uk/
   - icon: github
     icon_pack: fab
     link: https://github.com/FelipeToledoFerreira
@@ -75,5 +75,5 @@ email: ''
 highlight_name: true
 ---
 
-Felipe Ferreira is a student of Statistics at the Universidade de São Paulo. His research interests include functional data analysis and non parametric statistics.
-{style="text-align: justify;"}
+Felipe Ferreira is a student of Statistics at the Universidade de São Paulo. His research interests include functional data analysis (FDA) and nonparametric statistics.
+# {style="text-align: justify;"}
