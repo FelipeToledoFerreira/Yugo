@@ -14,25 +14,21 @@ role: Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Universidade de São Paulo
+  - name: University of São Paulo
     url: https://www5.usp.br/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include functional data analysis (FDA) and nonparametric statistics.
 
-# Interests to show in About widget
 interests:
-  - Functional data analysis
-  - Non parametric inference
+- Functional data analysis
+- Nonparametric Statistics
 
-# Education to show in About widget
 education:
   courses:
-    - course: MSc in Statistics
-      institution: Universidade de São Paulo
-    - course: BSc in Statistics
-      institution: Universidade Federal de Juiz de Fora
-      year: 2022
+  - course: BSc in Statistics
+    institution: Federal University of Juiz de Fora
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
