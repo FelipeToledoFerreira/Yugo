@@ -18,18 +18,6 @@ organizations:
     url: https://www5.usp.br/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include functional data analysis (FDA) and nonparametric statistics.
-
-interests:
-- Functional data analysis
-- Nonparametric Statistics
-
-education:
-  courses:
-  - course: BSc in Statistics
-    institution: Federal University of Juiz de Fora
-    year: 2022
-
 social:
   - icon: envelope
     icon_pack: fas
@@ -37,6 +25,12 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/FelipeToledoFerreira
+  - icon: lattes
+    icon_pack: ai
+    link: http://lattes.cnpq.br/5987443167199319
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Felipe-Toledo-Ferreira
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -53,6 +47,5 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
 Felipe Ferreira is a student of Statistics at the University of São Paulo. His research interests include functional data analysis (FDA) and nonparametric statistics.
 {style="text-align: left;"}
