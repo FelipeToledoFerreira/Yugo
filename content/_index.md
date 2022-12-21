@@ -49,7 +49,7 @@ sections:
         street: Rua do Matão, 1010
         city: São Paulo
         region: SP
-        postcode:
+        postcode: 05508-090
         country: Brasil
         country_code: BR
         directions: Laboratory 250, Block A
