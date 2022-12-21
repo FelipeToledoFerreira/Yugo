@@ -17,8 +17,6 @@ organizations:
   - name: University of São Paulo
     url: https://www5.usp.br/
 
-bio: I am a student currently enrolled in the Masters of Statistics program at the Institute of Mathematics and Statistics of the University of São Paulo. My research interests include functional data analysis (FDA) and nonparametric statistics.
-
 interests:
   - Functional Data Analysis
   - Nonparametric statistics
