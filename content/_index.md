@@ -46,7 +46,7 @@ sections:
       title: Contact
       email: felipe3@ime.usp
       address:
-        street: Rua do Matão, 1010
+        street: Rua do Matão 1010
         city: São Paulo
         region: SP
         postcode: 05508-090
