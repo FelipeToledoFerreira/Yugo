@@ -67,5 +67,5 @@ email: ''
 highlight_name: true
 ---
 
-Felipe Ferreira is a student of Statistics at the Universidade de São Paulo. His research interests include functional data analysis (FDA) and nonparametric statistics.
+Felipe Ferreira is a student of Statistics at the University of São Paulo. His research interests include functional data analysis (FDA) and nonparametric statistics.
 {style="text-align: left;"}
