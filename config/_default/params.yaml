@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: felipe
+  theme_night: felipe
   font: minimal
   font_size: M
 
@@ -56,8 +56,8 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: github-light
-    theme_dark: dracula
+    theme_light: felipe
+    theme_dark: felipe
   math:
     enable: false
   privacy_pack:
