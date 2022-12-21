@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: felipe
-  theme_night: felipe
+  theme_day: minimal
+  theme_night: minimal
   font: minimal
   font_size: M
 
@@ -56,8 +56,8 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: felipe
-    theme_dark: felipe
+    theme_light: minimal
+    theme_dark: minimal
   math:
     enable: false
   privacy_pack:
