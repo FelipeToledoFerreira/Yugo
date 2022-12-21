@@ -57,4 +57,7 @@ social:
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+I am a student currently enrolled in the Masters of Statistics program at the Institute of Mathematics and Statistics of the University of São Paulo. My research interests include functional data analysis (FDA) and nonparametric statistics.
+
 ---
