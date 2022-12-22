@@ -39,3 +39,5 @@ name = "felipe"
   home_section_even = "rgb(12, 12, 12)"
   
   text = "#34495e"
+  link = "rgb(175, 30, 35)"
+  link_hover = "rgb(88, 15, 18)"
