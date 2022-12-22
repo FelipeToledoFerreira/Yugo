@@ -21,7 +21,7 @@ name = "felipe"
   
   text = "#34495e"
   link = "rgb(175, 30, 35)"
-  link_hover = "rgb(88, 15, 18)"
+  #link_hover = "rgb(88, 15, 18)"
   
 [dark]
   # Primary
@@ -40,4 +40,4 @@ name = "felipe"
   
   text = "#34495e"
   link = "rgb(175, 30, 35)"
-  link_hover = "rgb(88, 15, 18)"
+  #link_hover = "rgb(88, 15, 18)"
