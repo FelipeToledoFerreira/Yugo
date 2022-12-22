@@ -11,9 +11,9 @@ name = "felipe"
   # Menu
   menu_primary = "rgb(175, 30, 35)"
   menu_text = "rgb(250, 250, 250)"
-  menu_text_active = "rgb(213, 140, 143)"
+  menu_text_active = "rgb(25, 25, 25)"
   menu_title = "rgb(250, 250, 250)"
-  menu_title_active = "rgb(213, 140, 143)"
+  menu_title_hover = "rgb(25, 25, 25)"
 
   # Home sections
   home_section_odd = "rgb(25, 25, 25)"
@@ -30,7 +30,7 @@ name = "felipe"
   # Menu
   menu_primary = "rgb(175, 30, 35)"
   menu_text = "rgb(250, 250, 250)"
-  menu_text_active = "rgb(213, 140, 143)"
+  menu_text_active = "rgb(25, 25, 25)"
   menu_title = "rgb(250, 250, 250)"
   menu_title_active = "rgb(213, 140, 143)"
 
