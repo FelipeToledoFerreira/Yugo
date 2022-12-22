@@ -19,6 +19,10 @@ name = "felipe"
   home_section_odd = "rgb(25, 25, 25)"
   home_section_even = "rgb(12, 12, 12)"
   
+  # Publication
+  publication_section_odd = "rgb(25, 25, 25)"
+  publication_section_even = "rgb(12, 12, 12)"
+  
   text = "#34495e"
   link = "rgb(175, 30, 35)"
   link_hover = "rgb(88, 15, 18)"
@@ -37,6 +41,10 @@ name = "felipe"
   # Home sections
   home_section_odd = "rgb(25, 25, 25)"
   home_section_even = "rgb(12, 12, 12)"
+  
+  # Publication
+  publication_section_odd = "rgb(25, 25, 25)"
+  publication_section_even = "rgb(12, 12, 12)"
   
   text = "#34495e"
   link = "rgb(175, 30, 35)"
