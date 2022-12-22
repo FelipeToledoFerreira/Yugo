@@ -17,6 +17,20 @@ organizations:
   - name: University of São Paulo
     url: https://www5.usp.br/
     
+bio: I am a student currently enrolled in the Masters of Statistics program at the Institute of Mathematics and Statistics of the University of São Paulo. My research interests include functional data analysis (FDA), multivariate data analysis and nonparametric statistics.
+
+interests:
+  - Functional data analysis
+  - Multivariate data analysis
+  - Nonparametric statistics
+
+# Education to show in About widget
+education:
+  courses:
+    - course: BSc in Statistics
+      institution: Federal University of Juiz de Fora
+      year: 2018
+
 social:
   - icon: envelope
     icon_pack: fas
@@ -39,20 +53,6 @@ social:
   # - icon: cv
   #  icon_pack: ai
   #  link: uploads/resume.pdf
- 
-interests:
-  - Functional data analysis
-  - Multivariate data analysis
-  - Nonparametric statistics
-
-# Education to show in About widget
-education:
-  courses:
-    - course: BSc in Statistics
-      institution: Federal University of Juiz de Fora
-      year: 2018
-  
-bio: I am a student currently enrolled in the Masters of Statistics program at the Institute of Mathematics and Statistics of the University of São Paulo. My research interests include functional data analysis (FDA), multivariate data analysis and nonparametric statistics.
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
