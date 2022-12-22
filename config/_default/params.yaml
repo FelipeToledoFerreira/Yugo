@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: my_theme
-  theme_night: my_theme
+  theme_day: my_theme_light
+  theme_night: my_theme_dark
   font: minimal
   font_size: M
 
@@ -56,8 +56,8 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: my_theme
-    theme_dark: my_theme
+    theme_light: my_theme_light
+    theme_dark: my_theme_dark
   math:
     enable: false
   privacy_pack:
