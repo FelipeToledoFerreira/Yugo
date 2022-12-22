@@ -18,6 +18,8 @@ name = "felipe"
   home_section_odd = "rgb(247, 250, 252)"
   home_section_even = "rgb(247, 250, 252)"
   
+  text = "#34495e"
+  
 [dark]
   # Primary
   primary = "#2962ff"
@@ -31,3 +33,5 @@ name = "felipe"
   # Home sections
   home_section_odd = "rgb(247, 250, 252)"
   home_section_even = "rgb(247, 250, 252)"
+  
+  text = "#34495e"
