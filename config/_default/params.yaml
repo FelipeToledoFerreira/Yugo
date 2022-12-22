@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: my_theme_light
+  theme_night: my_theme_dark
   font: minimal
   font_size: M
 
