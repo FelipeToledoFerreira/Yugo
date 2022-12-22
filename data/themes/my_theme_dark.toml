@@ -3,7 +3,7 @@
 name = "my_theme_dark"
 
 # Is theme light or dark?
-dark = true
+[dark] = true
 
 # Primary
 primary = "#4caf50"
